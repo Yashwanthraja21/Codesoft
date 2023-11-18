@@ -1,2 +1,2 @@
-# Codesoft
+# Codsoft
 Python programming 
